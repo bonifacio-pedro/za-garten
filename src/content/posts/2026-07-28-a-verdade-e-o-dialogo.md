@@ -7,7 +7,7 @@ draft: false
 ---
 Vivemos em uma sociedade com baixo grau de confiabilidade; isso é nítido quando se trata do medo de golpes, fraudes ou até de mentiras de um vendedor ambulante — um rápido *disclaimer*: quero focar o debate em questões não vitais; entenda que não estou tratando de segurança pública, assalto a bancos ou sequestros. Por isso, quero apresentar aqui ideias sobre a necessidade do falar e como o medo do diálogo e da conversa é uma grande barreira para o melhor que podemos adquirir como seres humanos. A conversa e a linguagem são, para muitos filólogos e filósofos, o que faz o Homo sapiens ser o que é:
  
-> "Em vez de definir o homem como animal rationale, deveríamos defini-lo como animal symbolicum."
+> 'Em vez de definir o homem como animal rationale, deveríamos defini-lo como animal symbolicum.'
 > 
 > — Ernst Cassirer, Ensaio sobre o Homem (1944)
 
@@ -20,7 +20,7 @@ Porém, o que é a verdade? Bom, essa é uma pergunta sem resposta. A epistemolo
 Quero trazer, então, a teoria da ferradura que pontuei aqui; pensemos nos dois extremos: a ideia da verdade platônica, o Uno, aquilo que é; e o relativismo antropológico, onde o que é pode não ser em um lugar e ser em outro. Dessa forma, para que medo? No viés antropológico, se o medo de falar errado já deixa de fazer sentido, afinal, o que é errado? Qual cultura trata isso como errado? Ou indo para um relativismo mais extremo, o que é falar certo e por que ter medo de algo que não consegue definir?
 Já no viés platônico, para que ter medo do argumento? Para que ter medo de falar, sendo que o próprio Sócrates diz:
 
-> "O ódio ao argumento e o ódio ao ser humano se originam de causas semelhantes. O ódio ao ser humano nasce quando alguém, desprovido de conhecimento suficiente ou habilidade, deposita irrestrita e ampla confiança em alguém, acreditando ser essa pessoa inteiramente sincera, íntegra e confiável e, depois, descobre que é vil e falsa."
+> 'O ódio ao argumento e o ódio ao ser humano se originam de causas semelhantes. O ódio ao ser humano nasce quando alguém, desprovido de conhecimento suficiente ou habilidade, deposita irrestrita e ampla confiança em alguém, acreditando ser essa pessoa inteiramente sincera, íntegra e confiável e, depois, descobre que é vil e falsa.'
 > 
 > — Platão, Fédon (89d)
 
