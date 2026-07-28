@@ -5,10 +5,8 @@ summary: "Esboço de pensamentos sobre conversas e o medo de propor dicussões"
 tags: ["Filosofia"]
 draft: false
 ---
-Vivemos em uma sociedade com baixo grau de confiabilidade; isso é nítido quando se trata do medo de golpes, fraudes ou até de mentiras de um vendedor ambulante — um rápido *disclaimer*: quero focar o debate em questões não vitais; entenda que não estou tratando de segurança pública, assalto a bancos ou sequestros. Por isso, quero apresentar aqui ideias sobre a necessidade do falar e como o medo do diálogo e da conversa é uma grande barreira para o melhor que podemos adquirir como seres humanos.
-
-> A conversa e a linguagem são, para muitos filólogos e filósofos, o que faz o Homo sapiens ser o que é:
-> 
+Vivemos em uma sociedade com baixo grau de confiabilidade; isso é nítido quando se trata do medo de golpes, fraudes ou até de mentiras de um vendedor ambulante — um rápido *disclaimer*: quero focar o debate em questões não vitais; entenda que não estou tratando de segurança pública, assalto a bancos ou sequestros. Por isso, quero apresentar aqui ideias sobre a necessidade do falar e como o medo do diálogo e da conversa é uma grande barreira para o melhor que podemos adquirir como seres humanos. A conversa e a linguagem são, para muitos filólogos e filósofos, o que faz o Homo sapiens ser o que é:
+ 
 > "Em vez de definir o homem como animal rationale, deveríamos defini-lo como animal symbolicum."
 > 
 > — Ernst Cassirer, Ensaio sobre o Homem (1944)
