@@ -3,7 +3,7 @@ title: "A verdade e o diálogo"
 date: 2026-07-28
 summary: "Esboço de pensamentos sobre conversas e o medo de propor dicussões"
 tags: ["Filosofia"]
-draft: true
+draft: false
 ---
 Vivemos em uma sociedade com baixo grau de confiabilidade; isso é nítido quando se trata do medo de golpes, fraudes ou até de mentiras de um vendedor ambulante — um rápido *disclaimer*: quero focar o debate em questões não vitais; entenda que não estou tratando de segurança pública, assalto a bancos ou sequestros. Por isso, quero apresentar aqui ideias sobre a necessidade do falar e como o medo do diálogo e da conversa é uma grande barreira para o melhor que podemos adquirir como seres humanos.
 
