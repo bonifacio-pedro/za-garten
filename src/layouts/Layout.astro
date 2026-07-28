@@ -1,0 +1,46 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+// Fontes self-hosted via @fontsource: zero requisição externa a Google Fonts,
+// bom para performance (LCP) e para privacidade.
+import '@fontsource/inter/400.css';
+import '@fontsource/inter/600.css';
+import '@fontsource/source-serif-4/400.css';
+import '@fontsource/source-serif-4/400-italic.css';
+import '@fontsource/source-serif-4/600.css';
+import '@fontsource/jetbrains-mono/400.css';
+import '@fontsource/jetbrains-mono/500.css';
+import 'katex/dist/katex.min.css';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const {
+  title,
+  description = 'Memorial em vida de Pedro da Rosa',
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="theme-color" content="#fdf6e3" />
+    <title>{title} · Jardim</title>
+  </head>
+  <body class="min-h-screen bg-paper text-ink antialiased">
+    <Header />
+    <main class="mx-auto max-w-2xl px-5 py-10 sm:px-6 sm:py-14">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

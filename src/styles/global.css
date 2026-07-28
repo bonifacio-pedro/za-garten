@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    font-family: 'Source Serif 4', Georgia, serif;
+  }
+
+  ::selection {
+    @apply bg-accent/20 text-ink-strong;
+  }
+}
+
+@layer components {
+  /* Wrapper de tipografia aplicado ao conteúdo renderizado dos posts (.md/.mdx) */
+  .prose-jardim {
+    @apply prose max-w-none
+      prose-headings:font-serif prose-headings:font-semibold prose-headings:tracking-normal prose-headings:text-ink-strong
+      prose-p:text-[1.0625rem] prose-p:leading-[1.85] prose-p:text-ink
+      sm:prose-p:text-[1.125rem]
+      prose-li:leading-[1.85] prose-li:text-ink
+      prose-a:text-accent prose-a:underline prose-a:decoration-accent/30 prose-a:underline-offset-4 hover:prose-a:decoration-accent
+      prose-strong:text-ink-strong prose-strong:font-semibold
+      prose-blockquote:border-l-accent-warm/50 prose-blockquote:font-serif prose-blockquote:italic prose-blockquote:text-ink-faint
+      prose-code:font-mono prose-code:text-[0.85em] prose-code:text-ink-strong prose-code:before:content-none prose-code:after:content-none
+      prose-pre:rounded-sm prose-pre:border prose-pre:border-line
+      prose-img:rounded-none prose-hr:border-line prose-hr:my-12;
+  }
+}

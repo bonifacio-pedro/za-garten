@@ -1,0 +1,32 @@
+---
+const nav = [
+  { href: '/', label: 'Início' },
+  { href: '/sobre', label: 'Sobre' },
+];
+const currentPath = Astro.url.pathname;
+---
+
+<header class="border-b border-line">
+  <div class="mx-auto flex max-w-2xl flex-col gap-1 px-5 py-6 sm:flex-row sm:items-baseline sm:justify-between sm:px-6 sm:py-8">
+    <a href="/" class="group">
+      <span class="block font-serif text-xl font-semibold tracking-tight text-ink-strong sm:text-2xl">
+        Pedro da Rosa
+      </span>
+      <span class="block font-serif text-sm italic text-ink-faint">docta ignorantia</span>
+    </a>
+    <nav class="flex gap-5 font-sans text-sm">
+      {
+        nav.map((item) => (
+          <a
+            href={item.href}
+            class={`transition-colors hover:text-oak ${
+              currentPath === item.href ? 'text-oak' : 'text-ink-faint'
+            }`}
+          >
+            {item.label}
+          </a>
+        ))
+      }
+    </nav>
+  </div>
+</header>

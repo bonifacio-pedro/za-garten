@@ -1,0 +1,50 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection, render } from 'astro:content';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('posts', ({ data }) => !data.draft);
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+const { Content, remarkPluginFrontmatter } = await render(post);
+
+const formatDate = (date: Date) =>
+  date.toLocaleDateString('pt-BR', { year: 'numeric', month: 'long', day: '2-digit' });
+---
+
+<Layout title={post.data.title} description={post.data.summary}>
+  <article>
+    <header class="mb-10 border-b border-line pb-8">
+      <h1 class="mb-4 font-serif text-3xl font-semibold leading-tight tracking-tight text-ink-strong sm:text-4xl">
+        {post.data.title}
+      </h1>
+      <div class="flex flex-wrap items-center gap-x-3 gap-y-2 font-sans text-xs uppercase tracking-wide text-ink-faint">
+        <time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
+        <span>·</span>
+        <span>{remarkPluginFrontmatter.minutesRead}</span>
+        {
+          post.data.tags.length > 0 && (
+            <>
+              <span>·</span>
+              <div class="flex gap-2 normal-case tracking-normal">
+                {post.data.tags.map((tag: string) => (
+                  <span class="rounded-sm border border-line px-1.5 py-0.5 text-ink-faint">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </>
+          )
+        }
+      </div>
+    </header>
+    <div class="prose-jardim">
+      <Content />
+    </div>
+  </article>
+</Layout>
