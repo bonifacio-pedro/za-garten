@@ -1,8 +1,8 @@
 ---
-title: "A refutação do relativismo extremo em Teeteto"
+title: "Teeteto: por que conhecimento não pode ser apenas percepção?"
 date: 2026-08-02
 summary: "Aqui apresento um pouco dos argumentos de Platão em Teeteto, e sua refutação da epistemologia Protagórica"
-tags: ["Filosofia;Epistemologia"]
+tags: ["Filosofia","Epistemologia"]
 draft: false
 ---
 ## 
@@ -10,8 +10,8 @@ draft: false
 Antes de entendermos, gostaria de começar com uma frase que elucida essa questão:
 > "O homem é a medida de todas as coisas" - Protágoras.
 
-Protagóras foi um grande sábio e sofista na Grécia, o qual cobrava uma quantia grande de dinheiro para seus ensiamentos de retórica e argumentação. No dialógo Teeteto, de Platão, é colocado uma questão principal por Sócrates:
-"O que é o conhecimento?".  Dessa forma, como *parteiro de ideias*, em conjunto com o jovem matemático Teeteto, e o amigo de Protagóras, Teodoro, fazem desse diálogo um grande tratado de epistemologia.
+Protágoras foi um grande sábio e sofista na Grécia, o qual cobrava uma quantia grande de dinheiro para seus ensinamentos de retórica e argumentação. No diálogo Teeteto, de Platão, é colocado uma questão principal por Sócrates:
+"O que é o conhecimento?".  Dessa forma, Sócrates, como *parteiro de ideias*, em conjunto com o jovem matemático Teeteto, e o amigo de Protágoras, Teodoro, fazem desse diálogo um grande tratado de epistemologia.
 
 Dessa forma, queria aqui, de forma sucinta, expor alguns argumentos anti-relativistas (aqui vale ressaltar que é um relativismo extremo e total, uma não-verdade absoluta), expostos por Platão ao decorrer do diálogo.
 
@@ -40,7 +40,7 @@ Um vir-a-ser que depende de dois polos, um ativo e um passivo; a única realidad
 não passa de um vir-a-ser.
 
 Ademais, como combate ao relativismo protagórico, Sócrates faz uma crítica linguística (157.a-b):
-Como tudo seria (aqui utilizar a palavra seria é apenas uma forma de explicação, pois nem ela poderia ser empregada), um vir-a-ser, não poderíamos usar pronomes possesivos: meu, minha, nosso; tampouco utilizar temporziações: agora, hoje, quando; Pois tudo seria, em uma maximização do relativismo, um vir-a-ser que depende da confluência dos agentes passivos e ativos e da sensação instantânea do perceptivo.
+Como tudo seria (aqui utilizar a palavra seria é apenas uma forma de explicação, pois nem ela poderia ser empregada), um vir-a-ser, não poderíamos usar pronomes possesivos: meu, minha, nosso; tampouco utilizar temporalizações: agora, hoje, quando; Pois tudo seria, em uma maximização do relativismo, um vir-a-ser que depende da confluência dos agentes passivos e ativos e da sensação instantânea do perceptivo.
 
 Em 160.a. Sócrates descreve de maneira corrida essa questão:
 > "E jamais terei essa percepção sensorial de qualquer outra coisa, uma vez que uma percepção sensorial de uma outra coisa é uma outra percepção e torna aquele que percebe diferente e outro; tampouco, no que concerne ao que atua sobre mim,
@@ -52,7 +52,7 @@ Em 160.c. coloca mais um ponto linguístico, a adição do "para" ou "de" relati
 > de forma que se alguém aplica o termo ser a uma coisa, ou o termo vir-a-ser, é necessário que expresse sempre que é para ou de ou relativamente a algo. Mas não deve expressar que é ou vem-a-ser absolutamente".
 
 Adicionalmente, em 161.a-d. apresenta o que posso chamar de "problema do perceptivo" se a verdade, como Protagoras e os relativistas extremos pregam, é aquilo que parece ao perceptivo, ou seja, ao juiz da percepção nas palavras de Sócrates, então
-tudo aquilo que percebe consegue gerar verdades, seja mesmo um babuíno ou um porco, com  suas percepções, conseguem gerar verdades em-si. Ao mesmo tempo, em 151.e. Sócrates desmontra um argumento contra-pedagógico ao relativismo extremo:
+tudo aquilo que percebe consegue gerar verdades, seja mesmo um babuíno ou um porco, com  suas percepções, conseguem gerar verdades em-si. Ao mesmo tempo, em 151.e. Sócrates demonstra um argumento contra-pedagógico ao relativismo extremo:
 "por que nós, ignorantes, precisaríamos de ser discípulos dele se toda pessoa é a medida de sua própria sabedoria?"; de forma que, para que serviria o ensino - o Professor, aquele que ensinaria -, se cada perceptivo constrói sua "própria" - nem mesmo própria, pois como dito, mesmo o próprio indivíduo é um vir-a-ser -, "verdade"?
 
 Resumo conceitual até o presente momento:
